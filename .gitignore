@@ -1,0 +1,15 @@
+# Ignore Gradle build directory
+.gradle/
+
+# Ignore local configuration
+local.properties
+
+# Ignore build outputs
+**/build/
+
+# Ignore IDE folders
+.idea/
+.DS_Store
+
+# Ignore generated files
+*.iml
